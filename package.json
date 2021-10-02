@@ -1,0 +1,33 @@
+{
+  "name": "tendra",
+  "version": "1.0.0",
+  "description": "[Erela.js docs](https://solaris.codes/projects/erelajs) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.eu) if u want to support me, then please [invite](https://lava.milrato.eu) him!**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tennessine",
+  "license": "ISC",
+  "dependencies": {
+    "@ksoft/api": "^3.1.9",
+    "ascii-table": "^0.0.9",
+    "colors": "^1.4.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.7",
+    "erela.js": "^2.3.3",
+    "erela.js-deezer": "^1.0.7",
+    "erela.js-facebook": "^1.0.4",
+    "erela.js-spotify": "^1.2.0",
+    "express": "^4.17.1",
+    "lyrics-finder": "^21.7.0",
+    "ms": "^3.0.0-canary.1",
+    "node-pre-gyp": "^0.17.0",
+    "radio-browser": "^2.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tendra"
+  }
+}
